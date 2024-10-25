@@ -1,0 +1,30 @@
+.. Linguagem D documentation master file, created by
+   sphinx-quickstart on Sun Oct 20 12:25:44 2024.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Linguagem D documentation
+========================
+
+.. _variaveis:
+
+Variáveis Suportadas
+=====================
+
+Aqui estão as variáveis suportadas na Linguagem L:
+
+- `int`: Números inteiros.
+- `float`: Números de ponto flutuante.
+- `str`: Strings de texto.
+
+Exemplos:
+x = 10  # um inteiro
+y = 3.14  # um float
+nome = "Ariano"  # uma string
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+.. automodule:: Linguagem D
